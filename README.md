@@ -69,4 +69,4 @@
     </a>
   </div>
 
-#### почта - serez.gavriliv@mail.ru
+#### Почта - serez.gavriliv@mail.ru
