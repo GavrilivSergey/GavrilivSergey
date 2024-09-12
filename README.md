@@ -62,7 +62,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
- <img src="https://avatars.mds.yandex.net/i?id=a729196337b81dad67df078f1d9d83b868406bb7-5109844-images-thumbs&n=13" width="40" height="40"/>&nbsp
+ <img src="https://avatars.mds.yandex.net/i?id=a729196337b81dad67df078f1d9d83b868406bb7-5109844-images-thumbs&n=13" title="IntelliJ IDEA " alt="IntelliJ IDEA " width="40" height="40"/>&nbsp
 </div>
 
 ### Как связаться со мной:
